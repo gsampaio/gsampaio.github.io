@@ -5,7 +5,7 @@ categories:
 - blog
 ---
 
-Somethings we have to throw _everything_ away and start from the scratch.
+Sometimes we have to throw _everything_ away and start from the scratch.
 
 ---
 
