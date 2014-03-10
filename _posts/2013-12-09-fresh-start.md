@@ -5,15 +5,6 @@ categories:
 - blog
 ---
 
-<<<<<<< HEAD
-=======
-Sometimes we have to throw _everything_ away and start from the scratch.
-
----
-
-# A new start for my blog.
-
->>>>>>> FETCH_HEAD
 During 2011 I started writing posts on my old tumblr blog. I keep doing this for about half an year. I really enjoyed the experience of writing down my thoughts an leave it open on the internet so anyone could read and interact with me. 
 
 As soon as I realised that I enjoyed writing, I started thinking that I would setup a wordpress blog on a virtual machine on a cloud provider to go beyond the tumblr limited scope. **I was wrong**. It took too much time to learn how to use the wordpress, to setup a template and then I released that a lost 6 months to achieve nothing. 
